@@ -1,0 +1,191 @@
+[
+  {
+    "fullName": "Harsh Ragu",
+    "age": "24",
+    "salary": "54000",
+    "department": "Finance",
+    "id": 4
+  },
+  {
+    "id": 6,
+    "fullName": "Samantha White",
+    "age": 29,
+    "salary": 62000,
+    "department": "HR"
+  },
+  {
+    "id": 7,
+    "fullName": "Richard Turner",
+    "age": 38,
+    "salary": 78000,
+    "department": "Finance"
+  },
+  {
+    "id": 8,
+    "fullName": "Emily Davis",
+    "age": 31,
+    "salary": 70000,
+    "department": "Marketing"
+  },
+  {
+    "id": 9,
+    "fullName": "Michael Wilson",
+    "age": 34,
+    "salary": 72000,
+    "department": "IT"
+  },
+  {
+    "id": 10,
+    "fullName": "Megan Clark",
+    "age": 27,
+    "salary": 58000,
+    "department": "HR"
+  },
+  {
+    "id": 11,
+    "fullName": "John Doe",
+    "age": 29,
+    "salary": 72000,
+    "department": "Marketing"
+  },
+  {
+    "id": 12,
+    "fullName": "Alice Smith",
+    "age": 33,
+    "salary": 68000,
+    "department": "IT"
+  },
+  {
+    "id": 13,
+    "fullName": "David Johnson",
+    "age": 40,
+    "salary": 82000,
+    "department": "Finance"
+  },
+  {
+    "id": 14,
+    "fullName": "Emma Brown",
+    "age": 25,
+    "salary": 60000,
+    "department": "HR"
+  },
+  {
+    "id": 15,
+    "fullName": "Michael Jones",
+    "age": 35,
+    "salary": 75000,
+    "department": "Marketing"
+  },
+  {
+    "id": 16,
+    "fullName": "Sophia Wilson",
+    "age": 28,
+    "salary": 70000,
+    "department": "IT"
+  },
+  {
+    "id": 17,
+    "fullName": "Daniel Davis",
+    "age": 42,
+    "salary": 85000,
+    "department": "Finance"
+  },
+  {
+    "id": 18,
+    "fullName": "Olivia Taylor",
+    "age": 31,
+    "salary": 63000,
+    "department": "HR"
+  },
+  {
+    "id": 19,
+    "fullName": "Matthew Miller",
+    "age": 37,
+    "salary": 78000,
+    "department": "Marketing"
+  },
+  {
+    "id": 20,
+    "fullName": "Isabella Garcia",
+    "age": 26,
+    "salary": 65000,
+    "department": "IT"
+  },
+  {
+    "id": 21,
+    "fullName": "Ethan Martinez",
+    "age": 30,
+    "salary": 72000,
+    "department": "Finance"
+  },
+  {
+    "id": 22,
+    "fullName": "Ava Brown",
+    "age": 34,
+    "salary": 76000,
+    "department": "HR"
+  },
+  {
+    "id": 23,
+    "fullName": "Noah Wilson",
+    "age": 27,
+    "salary": 69000,
+    "department": "Marketing"
+  },
+  {
+    "id": 24,
+    "fullName": "Mia Davis",
+    "age": 38,
+    "salary": 80000,
+    "department": "IT"
+  },
+  {
+    "id": 25,
+    "fullName": "Liam Rodriguez",
+    "age": 32,
+    "salary": 74000,
+    "department": "Finance"
+  },
+  {
+    "id": 26,
+    "fullName": "Charlotte Taylor",
+    "age": 29,
+    "salary": 68000,
+    "department": "HR"
+  },
+  {
+    "id": 27,
+    "fullName": "Benjamin Garcia",
+    "age": 36,
+    "salary": 79000,
+    "department": "Marketing"
+  },
+  {
+    "id": 28,
+    "fullName": "Amelia Martinez",
+    "age": 23,
+    "salary": 64000,
+    "department": "IT"
+  },
+  {
+    "id": 30,
+    "fullName": "Evelyn Wilson",
+    "age": 28,
+    "salary": 67000,
+    "department": "HR"
+  },
+  {
+    "fullName": "kartik verma",
+    "age": "23",
+    "salary": "92000",
+    "department": "HR",
+    "id": 32
+  },
+  {
+    "fullName": "Ankush",
+    "age": "30",
+    "salary": "1000",
+    "department": "MCA",
+    "id": 33
+  }
+]
